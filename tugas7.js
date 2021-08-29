@@ -6,5 +6,5 @@ for (let i = 0 ; i<tinggiBadan.length; i++){
 }
 
 for(let i of tinggiBadan){
-    console.log(i);
+    console.log(` Tinggi Badan ${namaSiswa} adalah ${tinggiBadan[i]} Cm`);
 }
